@@ -1,0 +1,19 @@
+body{
+text-align: center;
+line-height: 1.5em;
+font-family: Srisakdi;
+
+}
+
+
+.car-pic,
+car-pic2{
+width:50%;
+margin: auto;
+margin:0 auto;
+
+}
+.logo-pic{
+  position:absolute;
+  left:auto;
+}
